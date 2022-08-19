@@ -1,0 +1,47 @@
+Recap:
+  HTTP - Hyper Text Transfer Protocol( Access To Internet/WWW )
+  IP(Logical of the Device on a Network), MAC(Physical Address irrespective Network)
+  Visting a site backend working
+
+  Status/Response Code: Indication of status of a Request
+    1XX --> Hold on
+    2xx --> Success
+    3xx --> Redirect/No Change
+    4xx --> Client Side Error
+    5xx --> Server Side Error
+
+  BrowserJS (Frontend) vs NodeJs(Backend)
+    
+    BrowserJS(Client-Side) --> JS engine is sandboxed. window, document utils
+    NodeJs(Server-Side) --> Separate Engine for execution of JS. ** No window, document utils **
+  
+  JS:
+    if/else
+    for loop
+
+  arithmetic operators
+  comparison operators
+
+Topics:
+
+  Number
+
+  String 
+
+  Number to string and string to number 
+
+  Install Extensions:
+    HTMLCSS Support -> ecmel
+    HTML Snippets -> geyao
+    Live Server -> Ritwick Dey
+    Vscode Icons -> vscode
+    Rainbow Brackets -> 2gua
+
+  Array, Array attributes length, slice
+  Array Iteration (for, for of, for in, for each)
+  
+  Next Session:
+    Objects
+    Object Iteration (for in, keys, values)
+
+    Code Kata Pratice
